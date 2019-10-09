@@ -1,4 +1,4 @@
 # VUE
 About Vue
 
-use  vueui
+use vueui
